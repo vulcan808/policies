@@ -8,7 +8,7 @@ This code of conduct outlines our expectations for all those who participate in 
 
 We invite all those who participate in Campfire Stories to help us create safe and positive experiences for everyone.
 
-## 2. Open [Source/Culture/Tech] Citizenship
+## 2. Open Dialogue Citizenship
 
 A supplemental goal of this Code of Conduct is to increase open discourse citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
@@ -57,9 +57,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. listen.campfire@gmail.com.
-
-[LINK_TO_REPORTING_GUIDELINES]
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible by sending a direct message to @vulcan or emailing listen.campfire@gmail.com.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
