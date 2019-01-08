@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the Stumptown Syndicate by emailing conduct@stumptownsyndicate.org. 
+If you believe someone is violating the code of conduct we ask that you report it to the Stumptown Syndicate by emailing listen.campfire@gmail.com. 
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -47,7 +47,7 @@ Finally, the response team will make a report on the situation to the Stumptown 
 
 ## Appealing the response
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptown Syndicate Board at board@stumptownsyndicate.org with your appeal and the Syndicate board will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the listen.campfire@gmail.com with your appeal and the board will review the case.
 
 _Revision 1.0, DRAFT, proposed June 2014_
 _Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
